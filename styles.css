@@ -5,6 +5,7 @@
     /* display: flexbox;
     flex-wrap: nowrap; */
     background-color: dodgerblue;
+    justify-content: space-evenly;
 }
 .holder > div {
     background-color: #f1f1f1;

@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-    display: flexs;
+    display: flex;
     /* display: flexbox;
     flex-wrap: nowrap; */
     background-color: dodgerblue;
